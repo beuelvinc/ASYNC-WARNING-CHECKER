@@ -1,0 +1,6 @@
+DEPLOYMENT steps
+
+pre-deploy:
+    set env
+    install packages
+    celery should be run
